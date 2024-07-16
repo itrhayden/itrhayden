@@ -11,6 +11,12 @@ I'm Hayden, a pisces passionate about making the world a kinder place, doing tha
 - 📫 How to reach me: through Discord (@itrhayden)
 - ⚡ Fun fact: I have ADHD and abandon projects too much
 
+### 💼 Current Roles & Positions
+- Project Director, [The Share Kindness Project Inc.](https://tskp.me)
+- Chief Creative Officer, [Conscherry](https://conscherry.com)
+- A/V Team Leader, [Unity of Livonia](https://unityoflivonia.org)
+- Swim Instructor, [City of Livonia](https://livonia.gov)
+
 ### 🔧 Technologies & Tools
 
 - Programming Languages: Python, Java
