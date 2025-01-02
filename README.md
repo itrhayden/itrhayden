@@ -15,7 +15,6 @@ I'm Hayden, a pisces passionate about making the world a kinder place, doing tha
 - Project Director, [The Share Kindness Project Inc.](https://tskp.me)
 - Chief Creative Officer, [Conscherry](https://conscherry.com)
 - A/V Team Leader, [Unity of Livonia](https://unityoflivonia.org)
-- Swim Instructor, [City of Livonia](https://livonia.gov)
 
 ### 🔧 Technologies & Tools
 
